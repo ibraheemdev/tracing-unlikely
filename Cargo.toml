@@ -1,6 +1,6 @@
 [package]
 name = "tracing-unlikely"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Ibraheem Ahmed <ibraheem@ibraheem.ca>"]
 description = "A wrapper around `tracing` that minimizes overhead when tracing is disabled."
 edition = "2021"
